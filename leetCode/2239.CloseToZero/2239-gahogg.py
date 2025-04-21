@@ -14,3 +14,5 @@ class Solution:
         
         # Time: O(n)
         # Space: O(1)
+        #https://github.com/gahogg/Leetcode-Solutions/blob/main/Find%20Closest%20Number%20to%20Zero%20-%20Leetcode%202239/Find%20Closest%20Number%20to%20Zero%20-%20Leetcode%202239.py 
+        #https://algomap.io/ 
