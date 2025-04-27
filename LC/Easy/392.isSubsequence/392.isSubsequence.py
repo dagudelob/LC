@@ -17,8 +17,8 @@ class Solution(object):
         return False
         
 #test Codigo:
-print(Solution().seq("abc", "ajblkoijoijc"))  # Output: True
-print(Solution().seq("axc", "ahbgdc"))  # Output: False
-print(Solution().seq("", "ahbgdc")) # Output: True
-print(Solution().seq("abc", "")) # Output: False
-print(Solution().seq("axc", "ahbgdc")) # Output: False
+print(Solution().isSubsequence("abc", "ajblkoijoijc"))  # Output: True
+print(Solution().isSubsequence("axc", "ahbgdc"))  # Output: False
+print(Solution().isSubsequence("", "ahbgdc")) # Output: True
+print(Solution().isSubsequence("abc", "")) # Output: False
+print(Solution().isSubsequence("axc", "ahbgdc")) # Output: False
