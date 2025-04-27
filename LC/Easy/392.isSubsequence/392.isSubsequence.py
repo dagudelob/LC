@@ -17,8 +17,8 @@ class Solution(object):
         return False
         
 #test Codigo:
-print(solution().seq("abc", "ajblkoijoijc"))  # Output: True
-print(solution().seq("axc", "ahbgdc"))  # Output: False
-print(solution().seq("", "ahbgdc")) # Output: True
-print(solution().seq("abc", "")) # Output: False
-print(solution().seq("axc", "ahbgdc")) # Output: False
+print(Solution().seq("abc", "ajblkoijoijc"))  # Output: True
+print(Solution().seq("axc", "ahbgdc"))  # Output: False
+print(Solution().seq("", "ahbgdc")) # Output: True
+print(Solution().seq("abc", "")) # Output: False
+print(Solution().seq("axc", "ahbgdc")) # Output: False
